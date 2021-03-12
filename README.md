@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Sometimes Watch Movies To Get Motivation
 
+
+Show some ❤️ by starring some of the repositories!
