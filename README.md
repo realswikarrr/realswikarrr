@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Swikar Adhikari</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **swikara08@gmail.com**
 
