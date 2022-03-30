@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **swikara08@gmail.com**
+- 📫 How to reach me **swikara082@gmail.com**
 
 - ⚡ Fun fact **I Sometimes Watch Movies To Get Motivation**
 
