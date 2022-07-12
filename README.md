@@ -1,4 +1,5 @@
-<p align="center"><a href="https://github.com/realswikarrr"><img width="80%" alt="Hello, I'm Swikar. I love coding!" src="./assets/gh-readme-header.png" /></a></p>
+![q](https://user-images.githubusercontent.com/80502023/178427115-966828e6-d64e-4645-9ab9-bebccc718c4e.png)
+
 
 - 🌱 I’m currently learning **JavaScript And It's Frameworks**
 
