@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swikar Adhikari</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
-
 - 🌱 I’m currently learning **JavaScript And It's Frameworks**
 
 - 📫 How to reach me **swikara082@gmail.com**
