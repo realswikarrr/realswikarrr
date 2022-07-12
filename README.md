@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swikar Adhikari</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<p align="center"><a href="https://github.com/realswikarrr"><img width="80%" alt="Hello, I'm Swikar. I love coding!" src="./assets/gh-readme-header.png" /></a></p>
 
 - 🌱 I’m currently learning **JavaScript And It's Frameworks**
 
