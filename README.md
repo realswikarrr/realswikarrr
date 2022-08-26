@@ -1,5 +1,6 @@
 ![q](https://user-images.githubusercontent.com/80502023/178427115-966828e6-d64e-4645-9ab9-bebccc718c4e.png)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=realswikarrr&left_color=green&right_color=red)
 
 - 🌱 I’m currently learning **Data Structures And Algorithm / React Frameworks**
 
