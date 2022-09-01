@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=realswikarrr&left_color=green&right_color=red)
 
-- 🌱 I’m currently learning **Data Structures And Algorithm / React Frameworks**
+- 🌱 I’m currently learning **React Frameworks**
 
 - 📫 How to reach me **swikara082@gmail.com**
 
