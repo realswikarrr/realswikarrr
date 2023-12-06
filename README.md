@@ -1,6 +1,6 @@
 ![q](https://user-images.githubusercontent.com/80502023/178427115-966828e6-d64e-4645-9ab9-bebccc718c4e.png)
 
-- 🌱 I’m currently learning **React Frameworks**
+- 🌱 I’m currently learning **Node Js**
 
 - 📫 How to reach me **swikara082@gmail.com**
 
